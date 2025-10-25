@@ -1,7 +1,5 @@
 ### Hi there! I'm Mykhailo 👋
 
-<img src="https://avatars.githubusercontent.com/u/48616642?v=4" alt="Profile Picture" align="right" width="200" style="border-radius: 50%;" />
-
 I am a student at **Zhytomyr Polytechnic State University** and the **IT-STEP Computer Academy**.
 
 ---
