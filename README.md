@@ -5,7 +5,7 @@ I am a student at **Zhytomyr Polytechnic State University** and the **IT-STEP Co
 ---
 
 ### 🛠️ My Tech Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevrikM&layout=pie&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevrikM&layout=pie&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
