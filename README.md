@@ -33,9 +33,7 @@ I am a student at **Zhytomyr Polytechnic State University** and the **IT-STEP Co
   <a href="https://expressjs.com" target="_blank">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   </a>
-  
-</p>
-<p align="center">
+  <p align="center">
   <a href="https://www.php.net" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </a>
@@ -64,6 +62,7 @@ I am a student at **Zhytomyr Polytechnic State University** and the **IT-STEP Co
     <img alt="Electron" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white">
   </a>
 </p>
+
 ---
 
 ### 📊 My GitHub Stats
