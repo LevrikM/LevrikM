@@ -16,7 +16,7 @@
 | **Rust Launcher** | A custom launcher application designed for the game Rust. | [View App](https://rust-launcher.vercel.app/) |
 | **Rust Stats** | Real-time statistics tracking tool for Rust players. | [View Site](https://ruststats.vercel.app/) |
 | **MyDevHub** | A personal developer hub and project showcase. | [View App](https://mydevhub.vercel.app/) |
-| **Awesome CV** | Create your awesome CV for free. | [View App](https://cv-awesome.vercel.app/) |
+| **Awesome CV** | Create your awesome CV for free. | [View Site](https://cv-awesome.vercel.app/) |
 
 ---
 
