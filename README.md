@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Top Projects
+### 🚀 My Projects
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
