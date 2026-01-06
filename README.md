@@ -17,6 +17,7 @@
 | **Rust Stats** | Real-time statistics tracking tool for Rust players. | [View Site](https://ruststats.vercel.app/) |
 | **MyDevHub** | A personal developer hub and project showcase. | [View App](https://mydevhub.vercel.app/) |
 | **Awesome CV** | Create your awesome CV for free. | [View Site](https://cv-awesome.vercel.app/) |
+| **Discord Flux** | Create your wonderful embed messages and more. | [View App](https://discord-flux.vercel.app/) |
 
 ---
 
